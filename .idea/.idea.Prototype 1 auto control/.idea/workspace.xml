@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31d39021-1e76-4d84-b0a3-12c5aae57972" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1 auto control/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1 auto control/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1 auto control/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1 auto control/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1 auto control/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1 auto control/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1 auto control/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1 auto control/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Ground.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Ground/Ground_Road.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Ground/Ground_Road.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Barrel_02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Barrel_02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Crate_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Crate_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Barrier02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Spool_02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Prop_Spool_02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Sky.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Sky/MountainSkybox.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Sky/MountainSkybox.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Sky/SkyDome.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Sky/SkyDome.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Armor_Car_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Armor_Car_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Bus_Blue_Z.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Bus_Blue_Z.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Car_Blue_Z.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Car_Blue_Z.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Van_Green_Z.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Van_Green_Z.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/Prop_Barrier01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/Prop_Barrier01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/Prop_Barrier02.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/Prop_Barrier02.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SK_Veh_Armor_Car_01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SK_Veh_Armor_Car_01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Prop_Barrel_02.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Prop_Barrel_02.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Prop_Crate_01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Prop_Crate_01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Prop_Spool_02.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Prop_Spool_02.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Rock_Boulder_01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Rock_Boulder_01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/ST_Veh_Bus_Blue_Z.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/ST_Veh_Bus_Blue_Z.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/ST_Veh_Car_Blue_Z.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/ST_Veh_Car_Blue_Z.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/ST_Veh_Ute_Red_Z.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/ST_Veh_Ute_Red_Z.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/ST_Veh_Van_Green_Z.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/ST_Veh_Van_Green_Z.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/road_straight_mesh.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/road_straight_mesh.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/Military_Green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/Military_Green.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonNature_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonNature_01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonNature_MountainSkybox_Snow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonNature_MountainSkybox_Snow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/Prop_Signs_00.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/Prop_Signs_00.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleSky.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleSky.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleTown.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleTown.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleTownLite_Road.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleTownLite_Road.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/MountainSkybox.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/MountainSkybox.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SkyDome.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SkyDome.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonNature_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/PolygonNature_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Road.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Signs_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Signs_00.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/SimpleSky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/SimpleSky.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/SimpleTown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/SimpleTown.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Skybox_Diff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Skybox_Diff.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Tex_Military_Green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Tex_Military_Green.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Textures_Props.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Textures/Textures_Props.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ss7D9BXOJkBc9YwKytLLiYPy7B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31d39021-1e76-4d84-b0a3-12c5aae57972" name="Default Changelist" comment="" />
+      <created>1572340348230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572340348230</updated>
+      <workItem from="1572340461195" duration="2508000" />
+      <workItem from="1572885455174" duration="134000" />
+      <workItem from="1572885753980" duration="1700000" />
+      <workItem from="1572888433850" duration="3151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
