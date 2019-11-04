@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31d39021-1e76-4d84-b0a3-12c5aae57972" name="Default Changelist" comment="" />
+    <list default="true" id="31d39021-1e76-4d84-b0a3-12c5aae57972" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -79,7 +81,7 @@
       <workItem from="1572340461195" duration="2508000" />
       <workItem from="1572885455174" duration="134000" />
       <workItem from="1572885753980" duration="1700000" />
-      <workItem from="1572888433850" duration="3506000" />
+      <workItem from="1572888433850" duration="3627000" />
     </task>
     <servers />
   </component>
